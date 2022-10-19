@@ -67,8 +67,8 @@ Windows
 
     Bu listede value’larınızla eşleşen iki satır görmelisiniz. Listede başka satırlar da olabilir.
     ```
-    user.name=Deniz Acar
-    user.email=deniz.acar@workintech.com.tr
+    user.name=Deniz Acay
+    user.email=deniz@workintech.com.tr
     ```
 ---
     
