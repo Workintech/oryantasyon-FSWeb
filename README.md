@@ -13,9 +13,9 @@ Bu github repository, Git ve GitHub hesaplarınızın kurulumunda size yol göst
 - [x]  Kimlik doğrulamasının yapılması
 - [x]  Repository’nin forklanması 
 - [x]  Repository’nin clone’lanması
-- [ ]  Repository’de değişiklik yapma
-- [ ]  Değişiklikleri Local olarak commit etmek
-- [ ]  Değişiklikleri GitHub'a Taşıma
+- [x]  Repository’de değişiklik yapma
+- [x]  Değişiklikleri Local olarak commit etmek
+- [x]  Değişiklikleri GitHub'a Taşıma
 - [ ]  Standart İş Akışı
 
 
