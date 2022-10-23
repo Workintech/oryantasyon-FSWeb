@@ -76,8 +76,7 @@ Windows
 *Bu adımın kullanacağınız her farklı bilgisayar için bir kez tamamlanması gerekecektir.*
   
 SSH kurulumu için bir video ile birlikte hareket etmeyi veya talimatları doğrudan GitHub'dan takip etmeyi seçin.
-> [MacOS Video Anlatım](https://workintech.com.tr)  
-> [Windows Video Anlatım](https://workintech.com.tr)  
+> [Windows Video Anlatım](https://cdn.journeyapp.com/contents/wIdI3h0bwrFR2Lj7e8bqkTa8lz8Hu5PnTHQY6uH1AblukwLP0O7VxnTnnToY6Giu_1666349118.mp4)  
 > [GitHub Adımları](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) (Uygun işletim sistemini seçtiğinizden emin olun.)
 
 ---
