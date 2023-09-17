@@ -1,21 +1,22 @@
 # Git Konfigurasyonu
 
 Bu github repository, Git ve GitHub hesaplarınızın kurulumunda size yol gösterecektir. Bu projenin amacı, bilgisayarınızın ortamının doğru şekilde ayarlandığından emin olmak ve Git iş akışının bir önizlemesini oluşturmaktır. Her komutun ek işlevselliği ve açıklamaları ile Git'e daha derinlemesine bir giriş, WorkinTech’te devam eden öğreniminizin bir parçası olacaktır.
+bu adımda bash yapma adımlarının pratiği yapılacak
 
 ---
 
 ## Adımlar
 
 - [x]  README’yi görüntüleme
-- [ ]  Bir GitHub hesabı oluşturma
-- [ ]  Komut satırı arayüzünü açma
-- [ ]  Kullanıcı Adı and E-mail oluşturma
-- [ ]  Kimlik doğrulamasının yapılması
-- [ ]  Repository’nin forklanması 
-- [ ]  Repository’nin clone’lanması
-- [ ]  Repository’de değişiklik yapma
-- [ ]  Değişiklikleri Local olarak commit etmek
-- [ ]  Değişiklikleri GitHub'a Taşıma
+- [x]  Bir GitHub hesabı oluşturma
+- [x]  Komut satırı arayüzünü açma
+- [x]  Kullanıcı Adı and E-mail oluşturma
+- [x]  Kimlik doğrulamasının yapılması
+- [x]  Repository’nin forklanması 
+- [x]  Repository’nin clone’lanması
+- [x]  Repository’de değişiklik yapma
+- [x]  Değişiklikleri Local olarak commit etmek
+- [x]  Değişiklikleri GitHub'a Taşıma
 - [ ]  Standart İş Akışı
 
 
